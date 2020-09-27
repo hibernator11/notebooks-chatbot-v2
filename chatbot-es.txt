@@ -26,7 +26,7 @@ Algunos bots conversacionales son integrados en sistemas de diálogo como asiste
 
 Esta técnica, también conocida como computación con humanos en el bucle, o human-in-the-loop computing, puede llegar a convertirse en la forma más efectiva para entrenar los bots de charla y lograr que puedan comunicarse independientemente con el usuario. También hace más relevante su capacidad para beneficiarse de un continuo bucle de retroalimentación. Al tener una mayor cantidad de personas interactuando con ellos y enseñándoles como resolver problemas, su algoritmo de aprendizaje automático mejora. De esta manera asistentes personales que utilicen una combinación de inteligencia artificial y humanos tienen la capacidad de proveer una experiencia más productiva y agradable para el usuario.
 
-En 2016 se desarrollaron cada vez más chatbots para funcionar en Facebook Messenger. Por ejemplo en la industria de viajes, el de Aeroméxico vende boletos y responde a preguntas,7​ mientras el de KLM's provee el estatus de vuelos y envía los pases de abordar móviles.8​ Estos servicios por chatbot ya existían por varios años en la app WeChat.
+En 2016 se desarrollaron cada vez más chatbots para funcionar en Facebook Messenger. Por ejemplo en la industria de viajes, el de Aeroméxico vende boletos y responde a preguntas, mientras el de KLM's provee el estatus de vuelos y envía los pases de abordar móviles. Estos servicios por chatbot ya existían por varios años en la app WeChat.
 
 En el caso del bot Semantycs permite interactuar vía voz con teléfono o chat.
 
@@ -40,7 +40,7 @@ Del mismo modo, existen chatbots de dominio abierto y cerrado. Los chatbots de d
 
 En el ámbito de los sistemas de Inteligencia Artificial, la industria tecnológica es la primera que ha empezado a apostar por ellos (sistemas como Watson de IBM, LUIS de Microsoft o DialogFlow de Google son claros ejemplos) donde la clave de la inteligencia del bot reside en el entrenamiento que se haga del mismo, para lo que se definen conceptos como Intenciones (qué quiere decir el usuario, cuál es su intención), Entidades y Diálogos.
 
-Los chatbots pueden utilizarse en multitud de contextos distintos y según la finalidad deseada. En contextos empresariales, son varias las funciones que pueden desarrollar los chatbots, ya sea en webs o en empresas físicas. Son capaces de ejercer la función de atención al cliente de manera rápida y sencilla, de proporcionar novedades pertinentes diariamente de manera automática y de gestionar los procesos de compra y pago en línea, acompañando al cliente a agilizar el proceso. 5​
+Los chatbots pueden utilizarse en multitud de contextos distintos y según la finalidad deseada. En contextos empresariales, son varias las funciones que pueden desarrollar los chatbots, ya sea en webs o en empresas físicas. Son capaces de ejercer la función de atención al cliente de manera rápida y sencilla, de proporcionar novedades pertinentes diariamente de manera automática y de gestionar los procesos de compra y pago en línea, acompañando al cliente a agilizar el proceso.
 
 En redes sociales y aplicaciones de mensajería, son bots normalmente orientados al branding y pueden ofrecer contenidos personalizados a sus usuarios en forma de conversaciones.
 
