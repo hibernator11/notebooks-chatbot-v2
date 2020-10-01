@@ -5,7 +5,7 @@
 Notebooks chabot
 
 # Versión en español
-[![Notebook](NLTKChatbot-es.ipynb)
+[Notebook](NLTKChatbot-es.ipynb)
 
 # Versión en inglés
-[![Notebook](NLTKChatbot-es.ipynb)
+[Notebook](NLTKChatbot.ipynb)
