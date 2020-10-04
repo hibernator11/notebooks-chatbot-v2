@@ -2,10 +2,10 @@
 
 
 # notebooks-chatbot
-Notebooks chabot
+Ejemplo de chatbot basado en noteboooks que utiliza un corpus de texto como entrenamiento para contestar las preguntas sobre un tema en particular. 
 
 # Versión en español
-[Notebook](NLTKChatbot-es.ipynb)
+Consultar [Notebook](NLTKChatbot-es.ipynb)
 
 # Versión en inglés
-[Notebook](NLTKChatbot.ipynb)
+Consultar [Notebook](NLTKChatbot.ipynb)
