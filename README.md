@@ -2,7 +2,7 @@
 
 
 # notebooks-chatbot
-Ejemplos de chatbot basado en noteboooks que utiliza un corpus de texto como entrenamiento para contestar las preguntas sobre un tema en particular. 
+Este proyecto incluye ejemplos de chatbot basado en Jupyter notebooks que utilizan diferentes librerías para entrenar en varios idiomas, procesar los corpus y proporcionar la respuesta a los usuarios.
 
 
 ## Chatterbot
