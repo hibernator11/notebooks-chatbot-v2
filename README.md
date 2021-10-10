@@ -20,6 +20,10 @@ Este ejemplo introduce cómo entrenar un chatbot en inglés con la librería Cha
 Este ejemplo introduce cómo entrenar un chatbot en español con la librería ChatterBot. Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Ejemplo-chatterbot-entrenamiento-espanol.ipynb)
 
 
+## Entrenamiento de ChatterBot con fichero personalizado
+Este ejemplo introduce cómo entrenar un chatbot a partir de un corpus personalizado con la librería ChatterBot. Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Ejemplo-chatterbot-entrenamiento-corpus.ipynb)
+
+
 ## NLTK
 Los siguientes ejemplos se basan en la librería de python para procesamiento del lenguaje natural [NLTK](https://www.nltk.org/). Utilizan un corpus que puede consistir en un fichero de texto para responder a las preguntas del usuario. Para ello utiliza listas de stopwords, tokenización, etc.
 
