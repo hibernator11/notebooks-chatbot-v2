@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebooks-chatbot/master)
 
+[![DOI](https://zenodo.org/badge/298878713.svg)](https://zenodo.org/badge/latestdoi/298878713)
+
 
 # notebooks-chatbot
 Este proyecto incluye ejemplos de chatbot basado en Jupyter notebooks que utilizan diferentes librerías para entrenar en varios idiomas, procesar los corpus y proporcionar la respuesta a los usuarios.
