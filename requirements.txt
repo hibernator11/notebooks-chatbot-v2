@@ -3,3 +3,4 @@ requests==2.23.0
 nltk==3.4
 sklearn==0.0
 ChatterBot==1.0.8
+spacy==2.0.18
