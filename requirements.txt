@@ -5,3 +5,4 @@ sklearn==0.0
 ChatterBot==1.0.8
 spacy==2.0.18
 PyYAML==3.13
+chatterbot-corpus==1.2.0
