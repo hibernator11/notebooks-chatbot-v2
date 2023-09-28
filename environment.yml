@@ -10,4 +10,4 @@ dependencies:
   - ChatterBot==1.0.8
   - spacy==2.1.3
   - PyYAML==3.13
-  -chatterbot-corpus==1.2.0
+  - chatterbot-corpus==1.2.0
