@@ -35,3 +35,7 @@ Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/
 
 ### Construyendo un chatbot con NLTK desde cero. Versión en español. Salida de texto
 Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/NLTKChatbot-es-print.ipynb)
+
+## Referencias
+
+- https://mybinder.readthedocs.io/
