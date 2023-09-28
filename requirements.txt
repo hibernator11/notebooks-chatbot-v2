@@ -3,6 +3,6 @@ requests==2.23.0
 nltk==3.4
 sklearn==0.0
 ChatterBot==1.1.0
-spacy==2.0.18
+spacy==2.1
 PyYAML==5.3
 chatterbot-corpus==1.2.0
