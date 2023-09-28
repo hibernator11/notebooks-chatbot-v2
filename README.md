@@ -39,3 +39,4 @@ Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/
 ## Referencias
 
 - https://mybinder.readthedocs.io/
+- https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html#conda-environment-with-environment-yml
