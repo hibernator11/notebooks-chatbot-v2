@@ -4,5 +4,5 @@ nltk==3.4
 sklearn==0.0
 ChatterBot==1.1.0
 spacy==2.0.18
-PyYAML==3.13
+PyYAML==5.3
 chatterbot-corpus==1.2.0
