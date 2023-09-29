@@ -6,8 +6,8 @@ channels:
 dependencies:
   - python=3.6
   - nltk==3.4
-  - chatterbot==1.0.8
   - spacy==2.1.3
   - PyYAML==3.13
-  - chatterbot-corpus==1.2.0
-  - pip
+  - pip:
+      - chatterbot==1.0.8
+      - chatterbot-corpus==1.2.0
