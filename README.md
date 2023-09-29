@@ -15,6 +15,8 @@ Este ejemplo hace uso del API sobre el tiempo a través del API https://openweat
 ## Chatterbot
 Los siguientes se basan en la librería [ChatterBot](https://pypi.org/project/ChatterBot/). Proporciona diferentes ejemplos para crear un chatbot y enternarlo de forma sencilla para los desarrolladores.
 
+Los ejemplos no funcionan en Binder por problemas de la distribución de la librería.
+
 ### Introducción a ChatterBot
 Este ejemplo introduce las bases para crear un chatbot utilizando la librería ChatterBot. Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Ejemplo-chatterbot.ipynb)
 
