@@ -12,7 +12,7 @@ A continuación se describen varios ejemplos realizados con diferentes tecnolog�
 Este ejemplo hace uso del API sobre el tiempo a través del API https://openweathermap.org/api. Además, utiliza la librería spaCy para identificar en la consulta la localización sobre la que se desea conocer el tiempo. Se ha creado un ejemplo en inglés y su traducción al español. Para ello, se han utilizado los modelos del lenguaje proporcionados por spaCy disponibles en https://spacy.io/usage/models.
 
 - [Jupyter Notebook de Windy en inglés](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat.ipynb)
-- [Windy en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat-es.ipynb)
+- [Jupyter Notebook de Windy en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat-es.ipynb)
 
 
 ## Chatterbot
