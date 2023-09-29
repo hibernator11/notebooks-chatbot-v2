@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebooks-chatbot/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebooks-chatbot-v2/master)
 
 [![DOI](https://zenodo.org/badge/298878713.svg)](https://zenodo.org/badge/latestdoi/298878713)
 
