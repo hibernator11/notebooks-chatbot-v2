@@ -1,6 +1,7 @@
 name: chatterbot-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.6
   - regex==2018.1.10
