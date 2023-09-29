@@ -1,8 +1,8 @@
 name: chatterbot-environment
 channels:
   - conda-forge
-  - bioconda
-  - defaults
+  - defaults 
+  - nodefaults
 dependencies:
   - python=3.6
   - nltk==3.4
