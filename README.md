@@ -11,9 +11,9 @@ A continuación se describen varios ejemplos realizados con diferentes tecnolog�
 ## spaCy
 Este ejemplo hace uso del API sobre el tiempo a través del API https://openweathermap.org/api. Además, utiliza la librería spaCy para identificar en la consulta la localización sobre la que se desea conocer el tiempo. Se ha creado un ejemplo en inglés y su traducción al español. Para ello, se han utilizado los modelos del lenguaje proporcionados por spaCy disponibles en https://spacy.io/usage/models.
 
-- [Jupyter Notebook de Windy en inglés](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat.ipynb)
-- [Jupyter Notebook de Windy en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat-es.ipynb)
-- [Jupyter Notebook de Escritores en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Escritores-Chat-es.ipynb)
+- [Jupyter Notebook de Windy en inglés](https://nbviewer.org/github/hibernator11/notebooks-chatbot-v2/blob/master/Windy-Chat.ipynb)
+- [Jupyter Notebook de Windy en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot-v2/blob/master/Windy-Chat-es.ipynb)
+- [Jupyter Notebook de Escritores en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot-v2/blob/master/Escritores-Chat-es.ipynb)
 
 Se incluye un ejemplo basado en los Wikidata y los datos abiertos de la Biblioteca Virtual Miguel de Cervantes para recuperar las obras de un autor en concreto. En el siguiente [enlace](https://w.wiki/7bWQ) se puede ejecutar la consulta SPARQL utilizada en el ejemplo.
 
