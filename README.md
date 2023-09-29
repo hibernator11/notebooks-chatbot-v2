@@ -37,3 +37,4 @@ Este ejemplo introduce cómo entrenar un chatbot a partir de un corpus personali
 - https://mybinder.readthedocs.io/
 - https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html#conda-environment-with-environment-yml
 - https://www.askpython.com/python/examples/chatbot-in-python-using-spacy
+- https://github.com/hibernator11/hdh-cafe-con-2023
