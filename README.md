@@ -13,6 +13,23 @@ Este ejemplo hace uso del API sobre el tiempo a través del API https://openweat
 
 - [Jupyter Notebook de Windy en inglés](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat.ipynb)
 - [Jupyter Notebook de Windy en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Windy-Chat-es.ipynb)
+- [Jupyter Notebook de Escritores en español](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/Escritores-Chat-es.ipynb)
+
+Se incluye un ejemplo basado en los Wikidata y los datos abiertos de la Biblioteca Virtual Miguel de Cervantes para recuperar las obras de un autor en concreto. En el siguiente [enlace](https://w.wiki/7bWQ) se puede ejecutar la consulta SPARQL utilizada en el ejemplo.
+
+```
+select ?workLabel
+where { ?s wdt:P2799 ?id . 
+       ?s wdt:P1559 ?name . 
+       filter regex(?name, "lope de vega", "i")
+       BIND(uri(concat("https://data.cervantesvirtual.com/person/", ?id)) as ?bvmcID) 
+       SERVICE <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> {
+          ?bvmcID <http://rdaregistry.info/Elements/a/authorOf> ?work .
+          ?work rdfs:label ?workLabel        
+       }
+} limit 10
+```
+
 
 
 ## Chatterbot
