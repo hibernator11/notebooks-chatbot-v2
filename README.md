@@ -49,6 +49,9 @@ Este ejemplo introduce cómo entrenar un chatbot en español con la librería Ch
 ### Entrenamiento de ChatterBot con fichero personalizado
 Este ejemplo introduce cómo entrenar un chatbot a partir de un corpus personalizado con la librería ChatterBot. Consultar [Notebook](https://nbviewer.org/github/hibernator11/notebooks-chatbot/blob/master/chatterbot/Ejemplo-chatterbot-entrenamiento-corpus.ipynb)
 
+## Licencia y términos de uso
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+
 ## Referencias
 
 - https://mybinder.readthedocs.io/
