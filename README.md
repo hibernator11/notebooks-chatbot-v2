@@ -6,7 +6,7 @@
 # notebooks-chatbot
 Este proyecto incluye ejemplos de chatbot basado en Jupyter notebooks que utilizan diferentes librerías para entrenar en varios idiomas, procesar las consltas y proporcionar la respuesta a los usuarios.
 
-A continuación se describen varios ejemplos realizados con diferentes tecnologías como spaCy y ChatterBot.
+A continuación se describen varios ejemplos realizados con diferentes tecnologías como [spaCy](https://spacy.io/) y [ChatterBot](https://chatterbot.readthedocs.io/en/stable/).
 
 ## spaCy
 Este ejemplo hace uso del API sobre el tiempo a través del API https://openweathermap.org/api. Además, utiliza la librería spaCy para identificar en la consulta la localización sobre la que se desea conocer el tiempo. Se ha creado un ejemplo en inglés y su traducción al español. Para ello, se han utilizado los modelos del lenguaje proporcionados por spaCy disponibles en https://spacy.io/usage/models.
@@ -58,3 +58,4 @@ Este ejemplo introduce cómo entrenar un chatbot a partir de un corpus personali
 - https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html#conda-environment-with-environment-yml
 - https://www.askpython.com/python/examples/chatbot-in-python-using-spacy
 - https://github.com/hibernator11/hdh-cafe-con-2023
+- https://data.cervantesvirtual.com/noticia/dariah-annual-event-2023-y-la-bvmc
